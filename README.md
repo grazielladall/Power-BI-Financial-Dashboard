@@ -2,7 +2,7 @@
 
 * Ficticious Company* 
 
-Financial dashboard using Figma and Power BI to communicate main business insights such as:
+Using DAX expressions and data modelling in Power BI to communicate main business insights such as:
 
 * Cash Flow Control over time
 * Profit margin (%)
